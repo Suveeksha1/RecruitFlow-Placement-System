@@ -184,7 +184,9 @@ pytest backend_test.py
 
 ## 🌟 Author
 
-Built with 🧠 + ☕ by **[Soumika](https://github.com/soumika-RM)**
+Built with 🧠 + ☕ by **[Suveeksha](https://github.com/Suveeksha1)**
+
+https://github.com/Suveeksha1
 
 <div align="center">
 
